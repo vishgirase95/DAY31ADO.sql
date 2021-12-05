@@ -1,0 +1,44 @@
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.exe
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.deps.json
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.runtimeconfig.json
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.runtimeconfig.dev.json
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.pdb
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.csproj.AssemblyReference.cache
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.AssemblyInfoInputs.cache
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.AssemblyInfo.cs
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.csproj.CoreCompileInputs.cache
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.pdb
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.genruntimeconfig.cache
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+C:\Users\Vishal Girase\source\repos\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.exe
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.deps.json
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.runtimeconfig.json
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.runtimeconfig.dev.json
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\sqlconnection.pdb
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\MySqlConnector.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.csproj.AssemblyReference.cache
+D:\bridgelabz\sql\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.GeneratedMSBuildEditorConfig.editorconfig
+D:\bridgelabz\sql\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.AssemblyInfoInputs.cache
+D:\bridgelabz\sql\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.AssemblyInfo.cs
+D:\bridgelabz\sql\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.csproj.CoreCompileInputs.cache
+D:\bridgelabz\sql\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.dll
+D:\bridgelabz\sql\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.pdb
+D:\bridgelabz\sql\sqlconnection\sqlconnection\obj\Debug\netcoreapp3.1\sqlconnection.genruntimeconfig.cache
